@@ -1,0 +1,116 @@
+User Info: User [userID='1', userName='Petar', userSurname='Milosevic', userUsername='petar123', userPassword='petar123', userAddress='Nema', userPhone='Nema', userCredit='56.78', userRole='admin', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 19:47:07
+	Log Message: New User logged in.
+
+User Info: User [userID='', userName='', userSurname='', userUsername='dfsdsfsd', userPassword='sdffsdfds', userAddress='', userPhone='', userCredit='', userRole='', userProfilePicture='']
+	Time: 2021/04/19 19:50:25
+	Log Message: User refused to connect.
+
+User Info: User [userID='3', userName='Jovan', userSurname='Markovic', userUsername='jovan123', userPassword='jovan123', userAddress='/', userPhone='/', userCredit='25.00', userRole='user', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 19:50:49
+	Log Message: New User logged in.
+
+User Info: User [userID='3', userName='Jovan', userSurname='Markovic', userUsername='jovan123', userPassword='jovan123', userAddress='/', userPhone='/', userCredit='25.00', userRole='user', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 19:50:59
+	Log Message: New Item added to cart. Item [itemID='2', itemName='Memorija DDR4 16GB(2x8GB) 3600MHz', itemImage='https://shopdatabase.000webhostapp.com/memorija_ddr4_4gb_2666mhz_patriot_signature_psd44g266681b-_bulk-1618385327-780.png', itemPrice='22.45', itemCategory='Memory', itemAmount='21']
+
+User Info: User [userID='3', userName='Jovan', userSurname='Markovic', userUsername='jovan123', userPassword='jovan123', userAddress='/', userPhone='/', userCredit='25.00', userRole='user', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 19:51:00
+	Log Message: New Item added to cart. Item [itemID='3', itemName='Matična ploča MSI H410M-A PRO HDMI/DVI/M.2', itemImage='https://shopdatabase.000webhostapp.com/maticna_ploca_msi_h410m-a_pro-1618048610-864.png', itemPrice='125.99', itemCategory='Motherboard', itemAmount='7']
+
+User Info: User [userID='3', userName='Jovan', userSurname='Markovic', userUsername='jovan123', userPassword='jovan123', userAddress='/', userPhone='/', userCredit='25.00', userRole='user', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 19:51:01
+	Log Message: New Item added to cart. Item [itemID='5', itemName='Memorija DDR4 16GB(2x8GB) 3600MHz', itemImage='https://shopdatabase.000webhostapp.com/memorija_ddr4_4gb_2666mhz_patriot_signature_psd44g266681b-_bulk-1618385327-780.png', itemPrice='22.45', itemCategory='Memory', itemAmount='21']
+
+User Info: User [userID='3', userName='Jovan', userSurname='Markovic', userUsername='jovan123', userPassword='jovan123', userAddress='/', userPhone='/', userCredit='2.5500000000000007', userRole='user', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 19:51:12
+	Log Message: New Item ordered now. Item [itemID='2', itemName='Memorija DDR4 16GB(2x8GB) 3600MHz', itemImage='https://shopdatabase.000webhostapp.com/memorija_ddr4_4gb_2666mhz_patriot_signature_psd44g266681b-_bulk-1618385327-780.png', itemPrice='22.45', itemCategory='Memory', itemAmount='21']
+
+User Info: User [userID='3', userName='Jovan', userSurname='Markovic', userUsername='jovan123', userPassword='jovan123', userAddress='/', userPhone='/', userCredit='25.0', userRole='user', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 19:51:30
+	Log Message: Item removed from Orders. Item [itemID='2', itemName='Memorija DDR4 16GB(2x8GB) 3600MHz', itemImage='https://shopdatabase.000webhostapp.com/memorija_ddr4_4gb_2666mhz_patriot_signature_psd44g266681b-_bulk-1618385327-780.png', itemPrice='22.45', itemCategory='Memory', itemAmount='21']
+
+User Info: User [userID='3', userName='Jovan', userSurname='Markovic', userUsername='jovan123', userPassword='jovan123', userAddress='/', userPhone='/', userCredit='25.0', userRole='user', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 19:51:43
+	Log Message: New Item added to cart. Item [itemID='1', itemName='Procesor AMD AM4 Ryzen 9 5900X 3.7GHz', itemImage='https://shopdatabase.000webhostapp.com/procesor_amd_am4_ryzen_9_5900x_3-7ghz-1610094906-457.png', itemPrice='550.90', itemCategory='Processor', itemAmount='53']
+
+User Info: User [userID='3', userName='Jovan', userSurname='Markovic', userUsername='jovan123', userPassword='jovan123', userAddress='/', userPhone='/', userCredit='25.0', userRole='user', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 19:51:45
+	Log Message: User signed out from App.
+
+User Info: User [userID='', userName='', userSurname='', userUsername='fdgfdgs', userPassword='dfgsgfdsdgfgfd', userAddress='', userPhone='', userCredit='', userRole='', userProfilePicture='']
+	Time: 2021/04/19 19:51:49
+	Log Message: User refused to connect.
+
+User Info: User [userID='1', userName='Petar', userSurname='Milosevic', userUsername='petar123', userPassword='petar123', userAddress='Nema', userPhone='Nema', userCredit='56.78', userRole='admin', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 20:11:40
+	Log Message: New User logged in.
+
+User Info: User [userID='1', userName='Petar', userSurname='Milosevic', userUsername='petar123', userPassword='petar123', userAddress='Nema', userPhone='Nema', userCredit='56.78', userRole='admin', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 20:11:54
+	Log Message: New Item added to cart. Item [itemID='4', itemName='Procesor AMD AM4 Ryzen 9 5900X 3.7GHz', itemImage='https://shopdatabase.000webhostapp.com/procesor_amd_am4_ryzen_9_5900x_3-7ghz-1610094906-457.png', itemPrice='550.90', itemCategory='Processor', itemAmount='53']
+
+User Info: User [userID='1', userName='Petar', userSurname='Milosevic', userUsername='petar123', userPassword='petar123', userAddress='Nema', userPhone='Nema', userCredit='56.78', userRole='admin', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 20:11:55
+	Log Message: New Item added to cart. Item [itemID='3', itemName='Matična ploča MSI H410M-A PRO HDMI/DVI/M.2', itemImage='https://shopdatabase.000webhostapp.com/maticna_ploca_msi_h410m-a_pro-1618048610-864.png', itemPrice='125.99', itemCategory='Motherboard', itemAmount='7']
+
+User Info: User [userID='1', userName='Petar', userSurname='Milosevic', userUsername='petar123', userPassword='petar123', userAddress='Nema', userPhone='Nema', userCredit='56.78', userRole='admin', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 20:12:18
+	Log Message: New Item added to cart. Item [itemID='2', itemName='Memorija DDR4 16GB(2x8GB) 3600MHz', itemImage='https://shopdatabase.000webhostapp.com/memorija_ddr4_4gb_2666mhz_patriot_signature_psd44g266681b-_bulk-1618385327-780.png', itemPrice='22.45', itemCategory='Memory', itemAmount='21']
+
+User Info: User [userID='1', userName='Petar', userSurname='Milosevic', userUsername='petar123', userPassword='petar123', userAddress='Nema', userPhone='Nema', userCredit='56.78', userRole='admin', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 20:12:21
+	Log Message: New Item added to cart. Item [itemID='5', itemName='Memorija DDR4 16GB(2x8GB) 3600MHz', itemImage='https://shopdatabase.000webhostapp.com/memorija_ddr4_4gb_2666mhz_patriot_signature_psd44g266681b-_bulk-1618385327-780.png', itemPrice='22.45', itemCategory='Memory', itemAmount='21']
+
+User Info: User [userID='1', userName='Petar', userSurname='Milosevic', userUsername='petar123', userPassword='petar123', userAddress='Nema', userPhone='Nema', userCredit='34.33', userRole='admin', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 20:12:26
+	Log Message: New Item ordered now. Item [itemID='2', itemName='Memorija DDR4 16GB(2x8GB) 3600MHz', itemImage='https://shopdatabase.000webhostapp.com/memorija_ddr4_4gb_2666mhz_patriot_signature_psd44g266681b-_bulk-1618385327-780.png', itemPrice='22.45', itemCategory='Memory', itemAmount='21']
+
+User Info: User [userID='1', userName='Petar', userSurname='Milosevic', userUsername='petar123', userPassword='petar123', userAddress='Nema', userPhone='Nema', userCredit='56.78', userRole='admin', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 20:12:36
+	Log Message: Item removed from Orders. Item [itemID='2', itemName='Memorija DDR4 16GB(2x8GB) 3600MHz', itemImage='https://shopdatabase.000webhostapp.com/memorija_ddr4_4gb_2666mhz_patriot_signature_psd44g266681b-_bulk-1618385327-780.png', itemPrice='22.45', itemCategory='Memory', itemAmount='21']
+
+User Info: User [userID='1', userName='Petar', userSurname='Milosevic', userUsername='petar123', userPassword='petar123', userAddress='Nema', userPhone='Nema', userCredit='56.78', userRole='admin', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 20:13:14
+	Log Message: User signed out from App.
+
+User Info: User [userID='', userName='', userSurname='', userUsername='gdsfgfds', userPassword='gfdsdfgfds', userAddress='', userPhone='', userCredit='', userRole='', userProfilePicture='']
+	Time: 2021/04/19 20:13:17
+	Log Message: User refused to connect.
+
+User Info: User [userID='1', userName='Petar', userSurname='Milosevic', userUsername='petar123', userPassword='petar123', userAddress='Nema', userPhone='Nema', userCredit='56.78', userRole='admin', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 20:18:56
+	Log Message: New User logged in.
+
+User Info: User [userID='1', userName='Petar', userSurname='Milosevic', userUsername='petar123', userPassword='petar123', userAddress='Nema', userPhone='Nema', userCredit='56.78', userRole='admin', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 20:19:32
+	Log Message: New Item added to cart. Item [itemID='2', itemName='Memorija DDR4 16GB(2x8GB) 3600MHz', itemImage='https://shopdatabase.000webhostapp.com/memorija_ddr4_4gb_2666mhz_patriot_signature_psd44g266681b-_bulk-1618385327-780.png', itemPrice='22.45', itemCategory='Memory', itemAmount='21']
+
+User Info: User [userID='1', userName='Petar', userSurname='Milosevic', userUsername='petar123', userPassword='petar123', userAddress='Nema', userPhone='Nema', userCredit='56.78', userRole='admin', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 20:19:33
+	Log Message: New Item added to cart. Item [itemID='1', itemName='Procesor AMD AM4 Ryzen 9 5900X 3.7GHz', itemImage='https://shopdatabase.000webhostapp.com/procesor_amd_am4_ryzen_9_5900x_3-7ghz-1610094906-457.png', itemPrice='550.90', itemCategory='Processor', itemAmount='53']
+
+User Info: User [userID='1', userName='Petar', userSurname='Milosevic', userUsername='petar123', userPassword='petar123', userAddress='Nema', userPhone='Nema', userCredit='56.78', userRole='admin', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 20:19:34
+	Log Message: New Item added to cart. Item [itemID='5', itemName='Memorija DDR4 16GB(2x8GB) 3600MHz', itemImage='https://shopdatabase.000webhostapp.com/memorija_ddr4_4gb_2666mhz_patriot_signature_psd44g266681b-_bulk-1618385327-780.png', itemPrice='22.45', itemCategory='Memory', itemAmount='21']
+
+User Info: User [userID='1', userName='Petar', userSurname='Milosevic', userUsername='petar123', userPassword='petar123', userAddress='Nema', userPhone='Nema', userCredit='56.78', userRole='admin', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 20:19:35
+	Log Message: New Item added to cart. Item [itemID='4', itemName='Procesor AMD AM4 Ryzen 9 5900X 3.7GHz', itemImage='https://shopdatabase.000webhostapp.com/procesor_amd_am4_ryzen_9_5900x_3-7ghz-1610094906-457.png', itemPrice='550.90', itemCategory='Processor', itemAmount='53']
+
+User Info: User [userID='1', userName='Petar', userSurname='Milosevic', userUsername='petar123', userPassword='petar123', userAddress='Nema', userPhone='Nema', userCredit='34.33', userRole='admin', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 20:19:42
+	Log Message: New Item ordered now. Item [itemID='5', itemName='Memorija DDR4 16GB(2x8GB) 3600MHz', itemImage='https://shopdatabase.000webhostapp.com/memorija_ddr4_4gb_2666mhz_patriot_signature_psd44g266681b-_bulk-1618385327-780.png', itemPrice='22.45', itemCategory='Memory', itemAmount='21']
+
+User Info: User [userID='1', userName='Petar', userSurname='Milosevic', userUsername='petar123', userPassword='petar123', userAddress='Nema', userPhone='Nema', userCredit='11.879999999999999', userRole='admin', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 20:19:43
+	Log Message: New Item ordered now. Item [itemID='2', itemName='Memorija DDR4 16GB(2x8GB) 3600MHz', itemImage='https://shopdatabase.000webhostapp.com/memorija_ddr4_4gb_2666mhz_patriot_signature_psd44g266681b-_bulk-1618385327-780.png', itemPrice='22.45', itemCategory='Memory', itemAmount='21']
+
+User Info: User [userID='1', userName='Petar', userSurname='Milosevic', userUsername='petar123', userPassword='petar123', userAddress='Nema', userPhone='Nema', userCredit='56.78', userRole='admin', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 20:26:14
+	Log Message: New User logged in.
+
+User Info: User [userID='1', userName='Petar', userSurname='Milosevic', userUsername='petar123', userPassword='petar123', userAddress='Nema', userPhone='Nema', userCredit='56.78', userRole='admin', userProfilePicture='https://shopdatabase.000webhostapp.com/MyPictureLogoLinkRelShortCut_ICON_WebSite.png']
+	Time: 2021/04/19 20:26:37
+	Log Message: User signed out from App.
+
